@@ -1,2 +1,2 @@
 # WUZ_Website
-Website for school :/ 
+Website for a school project
